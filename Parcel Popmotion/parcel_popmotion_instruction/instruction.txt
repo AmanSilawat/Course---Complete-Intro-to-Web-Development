@@ -1,0 +1,6 @@
+1. remove script popmotion.js and add in this script "const popmotion = require("popmotion");" in your animation.js file.
+2. open your project in terminal
+3. npm install --global parcel-bundler
+4. npm init -y
+5. npm install popmotion
+6. parcel index.html
